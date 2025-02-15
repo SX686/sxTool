@@ -1,0 +1,4 @@
+启动代码
+cd sxTool
+chmod +x sx1.0
+./sx1.0
